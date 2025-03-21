@@ -1,6 +1,7 @@
 
-![GifHub (1)](https://github.com/user-attachments/assets/fc562825-ebd9-41f6-8746-43e017e2d754)
-### Estudante de Tecnologia Focado em Dados
+<img src="https://github.com/user-attachments/assets/fc562825-ebd9-41f6-8746-43e017e2d754" width="1000" height="500" />
+<h3>Estudante de Tecnologia Focado em Dados</h3>
+
 
 
 Sou um estudante dedicado na área de linguagens de programação e análise de dados, com forte interesse em aprimorar habilidades técnicas e transformar dados brutos em insights importantes. Busco expandir meu conhecimento para crescer na área de dados.
